@@ -1,0 +1,16 @@
+import java.util.*;
+
+public class DigitString {
+    public static void main(String[] args) {
+        
+        Scanner sc=new Scanner(System.in);
+
+        int t=sc.nextInt();
+        while(t-->0){
+
+            String k=sc.next();
+
+            if(k.length()<=4 && k="" &&)
+        }
+    }
+}
